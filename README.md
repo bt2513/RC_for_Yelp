@@ -9,6 +9,7 @@ Please look at the requirements file to learn about dependencies and useful pack
 We splitted our work in **6 notebooks**. Each of them is independent and the code can be run independently from one or the other. 
 
 The titles explicitly describes the content of each notebook: 
+
 0. **Introduction**
 1. **Data Preprocessing**
 2. **Baseline Model**
